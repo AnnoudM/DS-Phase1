@@ -1,5 +1,5 @@
 public class Contact implements Comparable<Contact> {
-
+//test
   String name;
   String phonenumber;
   String emailaddress;
